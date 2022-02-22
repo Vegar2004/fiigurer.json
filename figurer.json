@@ -1,0 +1,18 @@
+
+{
+    "sirkler":[
+        {"Xverdi-1": 60,  "Yverdi-1": 90, "radius-1": 25, "farge-1": "red"},
+        {"Xverdi-2": 150, "Yverdi-2": 90, "radius-2": 35, "farge-2": "blue"},
+        {"Xverdi-3": 255,  "Yverdi-3": 90, "radius-3": 45, "farge-3": "yellow"},
+        {"Xverdi-4": 390,  "Yverdi-4": 90, "radius-4": 60, "farge-4": "green"},
+        {"Xverdi-5": 560,  "Yverdi-5": 90, "radius-5": 75, "farge-5": "purple"}
+    ],
+
+    "firkanter": [
+        {"x-1": 35, "y-1": 370, "bredde-1": 50, "høyde-1": 50, "farge-1": "grey"},
+        {"x-2": 115, "y-2": 360, "bredde-2": 70, "høyde-2": 70, "farge-2": "cyan"},
+        {"x-3": 210, "y-3": 350, "bredde-3": 90, "høyde-3": 90, "farge-3": "brown"},
+        {"x-4": 330, "y-4": 335, "bredde-4": 120, "høyde-4": 120, "farge-4": "black"},
+        {"x-5": 485, "y-5": 320, "bredde-5": 150, "høyde-5": 150, "farge-5": "orange"}
+    ]
+}
